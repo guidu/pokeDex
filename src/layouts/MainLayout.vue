@@ -3,7 +3,7 @@
     <q-header elevated>
       <q-toolbar>
         <q-toolbar-title class="text-center">
-          PokeDex
+          Estudos Vue JS com Quasar
         </q-toolbar-title>
 
       </q-toolbar>
